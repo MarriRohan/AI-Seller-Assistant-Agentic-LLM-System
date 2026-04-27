@@ -1,0 +1,5 @@
+Task: Draft a seller response.
+Requirements:
+- Personalize tone using customer context.
+- Use factual product details from tools.
+- Keep the response concise and actionable.

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "pro_plan_recommendation",
+    "input": {
+      "session_id": "eval-1",
+      "customer_name": "Taylor",
+      "product_key": "pro-plan",
+      "customer_need": "advanced analytics",
+      "trace_id": "eval-trace-1"
+    },
+    "expects_keywords": ["Pro Plan", "$99/month", "advanced analytics"]
+  }
+]
